@@ -6,5 +6,5 @@ short video: https://www.loom.com/share/3aec4609e15b4b4e99633db0aa66ee26
 - npm install
 - npm run dev
 
-build with: React + TypeScript + Vite
+built with: React + TypeScript + Vite
 
